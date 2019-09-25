@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\bin\Debug\ImgSliderOfficial.exe.config
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\bin\Debug\ImgSliderOfficial.exe
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\bin\Debug\ImgSliderOfficial.pdb
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.Form1.resources
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.Properties.Resources.resources
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.exe
+C:\Users\Admin\source\repos\ImgSliderOfficial\ImgSliderOfficial\obj\Debug\ImgSliderOfficial.pdb
